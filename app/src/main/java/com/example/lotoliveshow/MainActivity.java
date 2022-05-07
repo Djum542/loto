@@ -69,8 +69,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         }); {
-
-            ;
         } ;
         mBtLai.setOnClickListener(View.OnClickListener); {
             @Override
@@ -81,11 +79,10 @@ public class MainActivity extends AppCompatActivity {
             nTveaseInout = "";
             nTveaseout.setText("");
             nTvloto.setText("");
+    }
+    }
+}
 //        Random random = new Random();
 //        int value = random.nextInt(max - min +1) + min;
 //        for (int i = 0; i < 100; i++) {
 //            Log.d("BBB", "");
-    }
-
-    }
-}
