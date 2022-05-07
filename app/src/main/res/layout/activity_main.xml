@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:ignore="MissingConstraints"
     tools:context=".MainActivity"
-    android:background="@drawable/ic_launcher_background"
+    android:background="@drawable/anh"
     android:orientation="vertical">
 
 <!--    <TextView-->
